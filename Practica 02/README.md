@@ -104,7 +104,3 @@ Para poder lograr un ingreso correcto existen 2 formas aplicables:
 ## Notas
 - Los tokens generados expiran en 1 hora.
 - La base de datos de usuarios es un arreglo en memoria, no persistente.
-
-## Autor
-Desarrollado por [Tu Nombre].
-
