@@ -6,7 +6,8 @@ Este repositorio contiene dos aplicaciones Flask que implementan autenticación 
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/CDanielAg/Construccion_Software_2025_A/tree/main/Practica%2002
+   git clone https://github.com/CDanielAg/Construccion_Software_2025_A.git
+   cd '.\Construccion_Software_2025_A\Practica 02\'
    ```
 2. Instala las dependencias necesarias:
    ```sh
